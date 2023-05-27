@@ -1,0 +1,21 @@
+{
+  "name": "venushacks-23-scaling-to-zero-starter",
+  "version": "1.0.0",
+  "description": "Starter code for the 'Scaling to Zero' workshop at VenusHacks 2023.",
+  "license": "MIT",
+  "contributors": [
+    "Alexander Liu <liual2@uci.edu> (https://alexanderliu.com)",
+    "Eddy Chen <chenx43@uci.edu>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icssc/venushacks-23-scaling-to-zero-starter"
+  },
+  "main": "index.ts",
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
